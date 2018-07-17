@@ -1,0 +1,7 @@
+export PROJECT="iotanalytics2018"
+export REGION="us-central1"
+export ZONE="us-central1-c"
+export BUCKET="acmeiotbucket"
+export TOPIC="acmeiot"
+export REGISTRY="acmedevices"
+export GCLOUD_PROJECT="iotanalytics2018"
